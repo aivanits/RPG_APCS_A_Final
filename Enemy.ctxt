@@ -1,0 +1,7 @@
+#BlueJ class context
+comment0.target=Enemy
+comment1.params=inputType
+comment1.target=Enemy(java.lang.String)
+comment2.params=
+comment2.target=int\ enemyAttack()
+numComments=3

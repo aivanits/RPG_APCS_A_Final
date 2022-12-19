@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=Player
+comment1.params=aName\ aType
+comment1.target=Player(java.lang.String,\ char)
+comment2.params=
+comment2.target=void\ mage()
+comment3.params=
+comment3.target=void\ warrior()
+comment4.params=
+comment4.target=int\ getHealth()
+comment5.params=newHealth
+comment5.target=void\ setHealth(int)
+numComments=6

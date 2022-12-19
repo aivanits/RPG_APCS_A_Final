@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=Weapon
+comment1.params=weaponNum
+comment1.target=Weapon(int)
+comment2.params=
+comment2.target=int\ getDamage()
+comment3.params=
+comment3.target=double\ getCrit()
+comment4.params=newCrit
+comment4.target=void\ setCrit(double)
+comment5.params=
+comment5.target=java.lang.String\ toString()
+numComments=6
